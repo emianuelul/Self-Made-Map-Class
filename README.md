@@ -1,6 +1,8 @@
 # Map Template Class
 
-Created a Map Template Class for Uni and was kinda proud of it.
+Created a Map Template Class for Uni and was kinda proud of it even though it might be kinda rudimetary and/or incomplete.
+If the key is a number, it's ordered based on the key.
+It resized automatically.
 
 ## Fields:
 Struct called Pair that contains a key a value and an index inside the map that is used to memorize the map data
