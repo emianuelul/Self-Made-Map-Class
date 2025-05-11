@@ -42,7 +42,11 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
+<<<<<<< HEAD
   command = C:\Users\d0649\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S"C:\projects\Self Made Map" -B"C:\projects\Self Made Map\cmake-build-debug"
+=======
+  command = C:\Users\d0649\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S"C:\Users\d0649\CLionProjects\Laborator-OOP\Laborator 9" -B"C:\Users\d0649\CLionProjects\Laborator-OOP\Laborator 9\cmake-build-debug"
+>>>>>>> 0f4914bda2844cbe60b5ac8734bd64558f7a7b6f
   description = Re-running CMake...
   generator = 1
 

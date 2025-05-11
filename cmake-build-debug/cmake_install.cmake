@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Install script for directory: C:/projects/Self Made Map
+=======
+# Install script for directory: C:/Users/d0649/CLionProjects/Laborator-OOP/Laborator 9
+>>>>>>> 0f4914bda2844cbe60b5ac8734bd64558f7a7b6f
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,7 +44,11 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
+<<<<<<< HEAD
   file(WRITE "C:/projects/Self Made Map/cmake-build-debug/install_local_manifest.txt"
+=======
+  file(WRITE "C:/Users/d0649/CLionProjects/Laborator-OOP/Laborator 9/cmake-build-debug/install_local_manifest.txt"
+>>>>>>> 0f4914bda2844cbe60b5ac8734bd64558f7a7b6f
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -56,6 +64,10 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+<<<<<<< HEAD
   file(WRITE "C:/projects/Self Made Map/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+=======
+  file(WRITE "C:/Users/d0649/CLionProjects/Laborator-OOP/Laborator 9/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> 0f4914bda2844cbe60b5ac8734bd64558f7a7b6f
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
