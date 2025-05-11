@@ -2,11 +2,7 @@
 
 Created a Map Template Class for Uni and was kinda proud of it even though it might be kinda rudimetary and/or incomplete.
 If the key is a number, it's ordered based on the key.
-<<<<<<< HEAD
-It's resized automatically.
-=======
 It resized automatically.
->>>>>>> 7379210fa1a7a6476ee6b82c7238a8cb05d6fe0e
 
 ## Fields:
 Struct called Pair that contains a key a value and an index inside the map that is used to memorize the map data
